@@ -1,12 +1,15 @@
 # Auction-Smart-Contract
 
-#Auction
+# Auction
+
 This repository contains the Solidity code for a Chinese auction, also known as a penny social.
 
-#Problem Statement
+# Problem Statement
+
 A Chinese auction is a fundraising event where participants bid on items by placing tickets in a bowl in front of the item they want to bid on. The winner of the item is the person who has the highest ticket number in the bowl when the auction ends.
 
-#Assumptions
+# Assumptions
+
 This implementation makes the following assumptions:
 
 1. There are a fixed number of bidders, initialized to 4.
@@ -15,7 +18,7 @@ This implementation makes the following assumptions:
 4. Each bidder buys just one sheet of tickets, each with 5 tickets.
 5. The ticket numbers are 0, 1, 2, 3.
 
-#How to use
+# How to use
 To use this auction, you will need to:
 
 1. Clone the repository to your local machine.
@@ -27,5 +30,5 @@ To use this auction, you will need to:
 7. Have the bidders place their tickets in the bowls for the items they want to bid on.
 8. End the auction.
 
-#Solidity Remix IDE
+# Solidity Remix IDE
 [Link to Remix IDE](https://remix.ethereum.org/)
